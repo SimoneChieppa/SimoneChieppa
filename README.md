@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Simone Chieppa</h1>
-<h3 align="center">A very passionate developer since my youngest age, from Italy.</h3>
 
--  I’m statistic on **brushing up my skills**
-- 🌱 I’m currently earning a **master's degree in data science and marketing at NOVA IMS in Lisbon**
- 
-- 💬 Ask me about **SEO, Javascript, Vue.js, Linux, Networking stuff**
 
-- 📫 How to reach me **toscanoludovico@gmail.com**
+-  I’m currently studying data science at Sapienza University of Rome   **brushing up my skills**
+- I did a bachelor in statistics   **brushing up my skills**
+- I did part of my master at Nova IMS in Lisbon  **brushing up my skills**
 
 <h1 align="center">What's on my GitHub</h1>
 
