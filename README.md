@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Simone Chieppa</h1>
 
 
--  I’m currently studying data science at Sapienza University of Rome   **brushing up my skills**
-- I did a bachelor in statistics   **brushing up my skills**
-- I did part of my master at Nova IMS in Lisbon  **brushing up my skills**
+-  I’m currently studying data science at Sapienza University of Rome  
+- I did a bachelor in statistics  
+- I did part of my master at Nova IMS in Lisbon  
 
 <h1 align="center">What's on my GitHub</h1>
 
