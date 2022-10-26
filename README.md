@@ -3,7 +3,7 @@
 
 -  I am a student of the Msc in Data Science at Sapienza University of Rome, in my last year of studies. 
 -  Currently, I am spending a semester in Lisbon at Nova IMS for my Erasmus exchange.
--  I completed a BSc in Statistics  
+-  I completed a BSc in Statistics.  
 
 
 <h1 align="center">What's on my GitHub</h1>
