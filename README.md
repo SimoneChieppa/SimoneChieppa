@@ -15,4 +15,4 @@
     * [Wine Quality Prediction](https://github.com/SimoneChieppa/Wine-Quality-Project)
 *  **Homeworks**
     * [Algorithmic Methods of Data Mining - HW4 Audio Signals](https://github.com/SimoneChieppa/ADM-HW4-Audio-Signals)
-    * [Algorithmic Methods of Data Mining - HW5](https://github.com/SimoneChieppa/ADM-HW5)
+    * [Algorithmic Methods of Data Mining - HW5 Network Anslysis](https://github.com/SimoneChieppa/ADM-HW5-Network-Analysis)
