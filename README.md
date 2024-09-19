@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Simone Chieppa</h1>
 
 
--  I am a student of the Msc in Data Science at Sapienza University of Rome, in my last year of studies. 
--  Currently, I am spending a semester in Lisbon at Nova IMS for my Erasmus exchange.
--  I completed a BSc in Statistics.  
+-  I am a recently graduated **Data Scientist** with a strong interest in **audio processing** and **music information retrieval**.
+-  I completed a BSc in **Statistics** with a solid foundation in  **probability**, and **statistical modeling**.  
 
 
 <h1 align="center">What's on my GitHub</h1>
